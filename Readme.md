@@ -1,0 +1,1 @@
+nodemon: is nothing but when you save files it automatically start the server
