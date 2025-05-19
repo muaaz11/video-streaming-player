@@ -1,0 +1,16 @@
+{
+  "name": "video-streaming-player",
+  "version": "1.0.0",
+  "description": "A backend Project ",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Muhammad Muaaz",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
