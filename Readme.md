@@ -15,3 +15,14 @@ there are options that use can keep secure cookies in user Browser, these cookie
 About MIDDLEWARE: 
 
 HigherOrder is type of functions that accept functions as a parameter or return it, we treat them as a variable 
+
+Packages
+mongoose aggregate
+bcrypt or bcryptjs
+JWT (json web token) for token
+
+arrow function mai hamain context nahi pata hota----disadvantage
+
+JWT: 
+JWT is a bearer token. ye token jiske bhi pas hai main usse data send kardongha, it's like a key
+Read documentation 
