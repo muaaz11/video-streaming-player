@@ -26,3 +26,11 @@ arrow function mai hamain context nahi pata hota----disadvantage
 JWT: 
 JWT is a bearer token. ye token jiske bhi pas hai main usse data send kardongha, it's like a key
 Read documentation 
+
+cloudinary 
+
+express fileupload 
+multer --- for uloading files
+
+AWS:
+for f
