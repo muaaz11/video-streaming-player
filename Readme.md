@@ -34,3 +34,5 @@ multer --- for uloading files
 
 AWS:
 for f
+
+array method some---read docs
